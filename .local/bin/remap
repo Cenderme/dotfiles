@@ -1,0 +1,3 @@
+# Map the capslock key to control button.
+setxkbmap -option caps:ctrl_modifier
+

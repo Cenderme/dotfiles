@@ -1,0 +1,15 @@
+[database]
+path=/home/cenderme/.local/share/mail/
+[user]
+name=cenderme
+primary_email=hypervoicesz@hotmail.com
+other_email=soyluoglu16@itu.edu.tr;
+[new]
+tags=unread;inbox;
+ignore=
+[search]
+exclude_tags=deleted;spam;
+[maildir]
+synchronize_flags=true
+[crypto]
+gpg_path=gpg2

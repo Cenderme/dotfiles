@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo xbps-remove -R $@ && for var in "$@";do sed -i "/^$var$/d" /home/cenderme/.config/installed_packages; done

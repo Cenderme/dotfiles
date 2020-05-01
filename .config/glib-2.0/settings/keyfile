@@ -1,0 +1,29 @@
+[org/gtk/settings/file-chooser]
+window-position=(456, 175)
+window-size=(1008, 750)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=148
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/gnome/evince]
+document-directory='file:///home/cenderme/Downloads'
+
+[org/gnome/evince/default]
+continuous=false
+dual-page=true
+dual-page-odd-left=false
+enable-spellchecking=true
+fullscreen=false
+inverted-colors=false
+show-sidebar=false
+sidebar-page='thumbnails'
+sidebar-size=308
+sizing-mode='fit-page'
+zoom=0.70207596892353974

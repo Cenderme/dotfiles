@@ -1,0 +1,54 @@
+IMAPStore personal-remote
+Host outlook.office365.com
+Port  993
+User hypervoicesz@hotmail.com
+PassCmd "pass mutt-wizard-personal"
+AuthMechs LOGIN
+SSLType IMAPS
+AuthMech LOGIN
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore personal-local
+Subfolders Verbatim
+Path ~/.local/share/mail/personal/
+Inbox ~/.local/share/mail/personal/INBOX
+Flatten .
+
+Channel personal
+Expunge Both
+Master :personal-remote:
+Slave :personal-local:
+Patterns * !"[Gmail]/All Mail"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile
+
+IMAPStore school-remote
+Host imap.itu.edu.tr
+Port  993
+User soyluoglu16
+PassCmd "pass mutt-wizard-school"
+AuthMechs LOGIN
+SSLType IMAPS
+AuthMech LOGIN
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore school-local
+Subfolders Verbatim
+Path ~/.local/share/mail/school/
+Inbox ~/.local/share/mail/school/INBOX
+Flatten .
+
+Channel school
+Expunge Both
+Master :school-remote:
+Slave :school-local:
+Patterns * !"[Gmail]/All Mail"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile
+

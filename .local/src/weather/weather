@@ -1,0 +1,15 @@
+#!/bin/sh
+
+getforecast() { ping -q -c 1 1.1.1.1 >/dev/null || exit 1
+                curl -sf "wttr.in/istanbul_technical_university" > "$HOME/.local/src/weather/report" || exit 1 ;}
+
+showweather() { printf "%s" "$(sed '16q;d' "$HOME/.local/src/weather/report" | grep -wo "[0-9]*%" | sort -n | sed -e '$!d' | sed -e "s/^/🌧 /g" | tr -d '\n')"
+# ☔
+                sed '13q;d' "$HOME/.local/src/weather/report" | grep -o "m\\(-+\\)*[0-9]\\+" | sort -n -t 'm' -k 2n | sed -e 1b -e '$!d' | tr '\n|m' ' ' | awk '{print " ❄", $1"°C", "🌞", $2"°C"}' ;}
+
+if [ $# -eq 0 ]
+    then
+        [ "$(stat -c %y "$HOME/.local/src/weather/report" 2>/dev/null | cut -d ' ' -f 1)" != "$(date '+%Y-%m-%d')" ] && getforecast && showweather || showweather
+else
+    [ "$1" = "itu" ] && curl wttr.in/istanbul_technical_university || curl wttr.in/kartal
+fi

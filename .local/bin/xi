@@ -1,0 +1,1 @@
+sudo xbps-install -S $* && for var in $*;do echo "$var" >> /home/cenderme/.config/installed_packages;done

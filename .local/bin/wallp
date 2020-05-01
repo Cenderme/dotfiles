@@ -1,0 +1,3 @@
+file=$(/bin/ls ~/wallpapers/ | shuf -n 1)
+xwallpaper --maximize ~/wallpapers/$file
+wal -i ~/wallpapers/$file

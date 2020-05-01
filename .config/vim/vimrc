@@ -1,0 +1,7 @@
+set undodir=/home/cenderme/.local/share/vim/undo
+set directory=/home/cenderme/.local/share/vim/swap
+set backupdir=/home/cenderme/.local/share/vim/backup
+set viewdir=/home/cenderme/.local/share/vim/view
+set viminfo+='999,n/home/cenderme/.local/share/vim/viminfo
+set runtimepath=/home/cenderme/.config/nvim,,/home/cenderme/.config/nvim/after
+

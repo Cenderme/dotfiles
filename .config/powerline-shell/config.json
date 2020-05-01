@@ -1,0 +1,22 @@
+{
+    "segments": [
+        "virtual_env",
+        "ssh",
+        "cwd",
+        "git",
+        "root",
+        "exit_code"
+    ],
+    "hostname":{
+        "colorize":true
+    },
+    "cwd":{
+        "max_depth":2,
+        "max_dir_size":5,
+        "full_cwd":true
+    },
+    "theme": "default",
+    "vcs": {
+        "show_symbol":true
+    }
+}

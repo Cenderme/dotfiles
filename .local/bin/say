@@ -1,0 +1,8 @@
+for arg in "$@"
+do
+[ -r $arg ] && echo "Contents of $arg" &&
+echo "------------------------------------------------------------------------------------------" &&
+echo "`< $arg`" &&
+echo "" ||
+echo "Invalid file name: $arg."
+done

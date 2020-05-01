@@ -1,0 +1,9 @@
+2020/02/20-13:54:35.866 e0c Reusing MANIFEST /home/cenderme/.config/opera/IndexedDB/chrome_startpage_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/20-13:54:35.866 e0c Recovering log #4
+2020/02/20-13:54:35.870 e0c Reusing old log /home/cenderme/.config/opera/IndexedDB/chrome_startpage_0.indexeddb.leveldb/000004.log 
+2020/02/20-15:56:24.819 2daf Level-0 table #8: started
+2020/02/20-15:56:24.909 2daf Level-0 table #8: 1126257 bytes OK
+2020/02/20-15:56:24.949 2daf Delete type=0 #4
+2020/02/20-22:57:08.928 2daf Level-0 table #10: started
+2020/02/20-22:57:09.034 2daf Level-0 table #10: 1088238 bytes OK
+2020/02/20-22:57:09.113 2daf Delete type=0 #7

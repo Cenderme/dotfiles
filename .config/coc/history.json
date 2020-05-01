@@ -1,0 +1,16 @@
+{
+  "extensions": {
+    "%2Fhome%2Fcenderme%2Fcenderme": {
+      "github": {
+        "io": [
+          ":q"
+        ]
+      }
+    }
+  },
+  "diagnostics": {
+    "%2Fhome%2Fcenderme": [
+      "werwerwer"
+    ]
+  }
+}

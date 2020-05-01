@@ -1,0 +1,5 @@
+!! Transparency (0-1):
+*.alpha: 0.4
+
+!! Set a default font and font size as below:
+*.font: D2Coding:size=12

@@ -1,0 +1,11 @@
+# Please adapt and uncomment the following lines:
+#	name = Cenderme
+#	email = cenderme@pc1.(none)
+[sendemail]
+    smtpserver = /usr/bin/msmtp
+    smtpserveroption=-a
+    smtpserveroption=personal
+	confirm = auto
+[user]
+	email = hypervoicesz@hotmail.com
+	name = Cenderme

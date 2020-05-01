@@ -1,0 +1,5 @@
+2020/04/30-00:10:13.582 4c89 Reusing MANIFEST /home/cenderme/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/30-00:10:48.962 4ebf Level-0 table #5: started
+2020/04/30-00:10:49.005 4ebf Level-0 table #5: 28958 bytes OK
+2020/04/30-00:10:49.040 4ebf Delete type=0 #3
+2020/04/30-00:10:49.041 4ebf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

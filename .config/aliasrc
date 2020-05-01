@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# Verbosity and settings that you pretty much just always are going to want
+alias \
+	rm="rm -rfv" \
+	mv="mv -iv" \
+	cp="cp -iv" \
+	mkdir="mkdir -p"
+
+# Colorize commands when possible.
+alias \
+	ls="ls -gAh --color=auto" \
+	grep="grep -n --color=auto" \
+	diff="diff --color=auto"
+
+# Package manager
+alias \
+    xs="xbps-query -s "
+# Backup
+alias \
+	bf="rsync -Pav --delete soyluoglu16@ssh.itu.edu.tr:~/Archive :~/Articles :~/assignments :~/Books :~/Documents :~/dotfiles :~/personal :~/Textbooks ~/" \
+	bt="rsync -Pav --delete ~/Archive ~/Articles ~/assignments ~/Books ~/Documents ~/dotfiles ~/personal ~/Textbooks soyluoglu16@ssh.itu.edu.tr:~/"

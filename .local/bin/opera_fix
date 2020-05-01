@@ -1,0 +1,1 @@
+sudo rm /usr/lib64/opera/libffmpeg.so && sudo ln -s /usr/lib64/libffmpeg_h264.so /usr/lib64/opera/libffmpeg.so

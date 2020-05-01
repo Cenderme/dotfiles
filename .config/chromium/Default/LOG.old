@@ -1,0 +1,537 @@
+2020/04/28-16:59:38.610 3ff5 Delete type=3 #1
+2020/04/28-16:59:40.620 40fd Level-0 table #5: started
+2020/04/28-16:59:40.728 40fd Level-0 table #5: 169389 bytes OK
+2020/04/28-16:59:40.764 40fd Delete type=0 #3
+2020/04/28-17:19:01.885 40fd Level-0 table #7: started
+2020/04/28-17:19:01.939 40fd Level-0 table #7: 169391 bytes OK
+2020/04/28-17:19:01.971 40fd Delete type=0 #4
+2020/04/28-17:19:11.928 40fd Level-0 table #9: started
+2020/04/28-17:19:12.007 40fd Level-0 table #9: 242508 bytes OK
+2020/04/28-17:19:12.037 40fd Delete type=0 #6
+2020/04/28-17:19:26.574 40fd Level-0 table #11: started
+2020/04/28-17:19:26.634 3ff5 Current memtable full; waiting...
+2020/04/28-17:19:26.658 40fd Level-0 table #11: 242552 bytes OK
+2020/04/28-17:19:26.695 40fd Delete type=0 #8
+2020/04/28-17:19:26.697 40fd Level-0 table #13: started
+2020/04/28-17:19:26.767 40fd Level-0 table #13: 242636 bytes OK
+2020/04/28-17:19:26.803 40fd Delete type=0 #10
+2020/04/28-17:19:28.869 40fd Level-0 table #15: started
+2020/04/28-17:19:28.951 40fd Level-0 table #15: 242621 bytes OK
+2020/04/28-17:19:28.987 40fd Delete type=0 #12
+2020/04/28-17:19:32.297 40fd Level-0 table #17: started
+2020/04/28-17:19:32.335 40fd Level-0 table #17: 169389 bytes OK
+2020/04/28-17:19:32.335 3ff5 Current memtable full; waiting...
+2020/04/28-17:19:32.370 40fd Delete type=0 #14
+2020/04/28-17:19:32.371 40fd Level-0 table #19: started
+2020/04/28-17:19:32.444 40fd Level-0 table #19: 169509 bytes OK
+2020/04/28-17:19:32.478 40fd Delete type=0 #16
+2020/04/28-17:19:33.852 40fd Level-0 table #21: started
+2020/04/28-17:19:33.912 40fd Level-0 table #21: 169469 bytes OK
+2020/04/28-17:19:33.944 40fd Delete type=0 #18
+2020/04/28-17:19:40.918 40fd Level-0 table #23: started
+2020/04/28-17:19:40.956 40fd Level-0 table #23: 143823 bytes OK
+2020/04/28-17:19:40.956 46d3 Current memtable full; waiting...
+2020/04/28-17:19:40.987 40fd Delete type=0 #20
+2020/04/28-17:19:40.987 40fd Level-0 table #25: started
+2020/04/28-17:19:41.056 40fd Level-0 table #25: 143951 bytes OK
+2020/04/28-17:19:41.087 40fd Delete type=0 #22
+2020/04/28-17:19:43.275 40fd Level-0 table #27: started
+2020/04/28-17:19:43.324 40fd Level-0 table #27: 143936 bytes OK
+2020/04/28-17:19:43.352 40fd Delete type=0 #24
+2020/04/28-17:19:43.352 40fd Compacting 2@0 + 1@1 files
+2020/04/28-17:19:43.391 40fd Generated table #28@0: 1 keys, 242621 bytes
+2020/04/28-17:19:43.391 40fd Compacted 2@0 + 1@1 files => 242621 bytes
+2020/04/28-17:19:43.427 40fd compacted to: files[ 2 4 4 0 0 0 0 ]
+2020/04/28-17:19:43.427 40fd Delete type=2 #13
+2020/04/28-17:19:43.427 40fd Delete type=2 #15
+2020/04/28-17:19:43.427 40fd Delete type=2 #11
+2020/04/28-17:19:52.880 40fd Level-0 table #30: started
+2020/04/28-17:19:52.937 46d3 Current memtable full; waiting...
+2020/04/28-17:19:52.960 40fd Level-0 table #30: 199481 bytes OK
+2020/04/28-17:19:52.994 40fd Delete type=0 #26
+2020/04/28-17:19:52.995 40fd Level-0 table #32: started
+2020/04/28-17:19:53.069 40fd Level-0 table #32: 199609 bytes OK
+2020/04/28-17:19:53.102 40fd Delete type=0 #29
+2020/04/28-17:19:54.229 40fd Level-0 table #34: started
+2020/04/28-17:19:54.345 40fd Level-0 table #34: 199594 bytes OK
+2020/04/28-17:19:54.377 40fd Delete type=0 #31
+2020/04/28-17:19:55.775 40fd Level-0 table #36: started
+2020/04/28-17:19:55.813 40fd Level-0 table #36: 199481 bytes OK
+2020/04/28-17:19:55.843 40fd Delete type=0 #33
+2020/04/28-17:19:57.131 40fd Level-0 table #38: started
+2020/04/28-17:19:57.180 40fd Level-0 table #38: 199483 bytes OK
+2020/04/28-17:19:57.210 40fd Delete type=0 #35
+2020/04/28-17:20:01.851 40fd Level-0 table #40: started
+2020/04/28-17:20:01.906 40fd Level-0 table #40: 226113 bytes OK
+2020/04/28-17:20:01.906 46d3 Current memtable full; waiting...
+2020/04/28-17:20:01.943 40fd Delete type=0 #37
+2020/04/28-17:20:01.943 40fd Level-0 table #42: started
+2020/04/28-17:20:01.981 40fd Level-0 table #42: 226233 bytes OK
+2020/04/28-17:20:02.018 40fd Delete type=0 #39
+2020/04/28-17:20:04.094 40fd Level-0 table #44: started
+2020/04/28-17:20:04.224 40fd Level-0 table #44: 226218 bytes OK
+2020/04/28-17:20:04.259 40fd Delete type=0 #41
+2020/04/28-17:20:04.260 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:20:04.291 40fd Generated table #45@0: 1 keys, 143936 bytes
+2020/04/28-17:20:04.291 40fd Compacted 1@0 + 1@1 files => 143936 bytes
+2020/04/28-17:20:04.326 40fd compacted to: files[ 3 7 7 0 0 0 0 ]
+2020/04/28-17:20:04.326 40fd Delete type=2 #27
+2020/04/28-17:20:04.326 40fd Delete type=2 #25
+2020/04/28-17:20:09.112 40fd Level-0 table #47: started
+2020/04/28-17:20:09.159 40fd Level-0 table #47: 213844 bytes OK
+2020/04/28-17:20:09.159 3ff5 Current memtable full; waiting...
+2020/04/28-17:20:09.193 40fd Delete type=0 #43
+2020/04/28-17:20:09.194 40fd Level-0 table #49: started
+2020/04/28-17:20:09.268 40fd Level-0 table #49: 213964 bytes OK
+2020/04/28-17:20:09.301 40fd Delete type=0 #46
+2020/04/28-17:20:11.595 40fd Level-0 table #51: started
+2020/04/28-17:20:11.651 40fd Level-0 table #51: 213949 bytes OK
+2020/04/28-17:20:11.685 40fd Delete type=0 #48
+2020/04/28-17:20:11.685 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:20:11.727 40fd Generated table #52@0: 1 keys, 199594 bytes
+2020/04/28-17:20:11.727 40fd Compacted 1@0 + 1@1 files => 199594 bytes
+2020/04/28-17:20:11.759 40fd compacted to: files[ 3 8 8 0 0 0 0 ]
+2020/04/28-17:20:11.760 40fd Delete type=2 #34
+2020/04/28-17:20:11.760 40fd Delete type=2 #32
+2020/04/28-17:20:16.833 40fd Level-0 table #54: started
+2020/04/28-17:20:16.879 40fd Level-0 table #54: 168731 bytes OK
+2020/04/28-17:20:16.879 46d3 Current memtable full; waiting...
+2020/04/28-17:20:16.909 40fd Delete type=0 #50
+2020/04/28-17:20:16.909 40fd Level-0 table #56: started
+2020/04/28-17:20:16.955 40fd Level-0 table #56: 168859 bytes OK
+2020/04/28-17:20:16.984 40fd Delete type=0 #53
+2020/04/28-17:20:18.059 40fd Level-0 table #58: started
+2020/04/28-17:20:18.122 40fd Level-0 table #58: 168844 bytes OK
+2020/04/28-17:20:18.159 40fd Delete type=0 #55
+2020/04/28-17:20:18.160 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:20:18.197 40fd Generated table #59@0: 1 keys, 168844 bytes
+2020/04/28-17:20:18.197 40fd Compacted 1@0 + 1@1 files => 168844 bytes
+2020/04/28-17:20:18.264 40fd compacted to: files[ 3 9 9 0 0 0 0 ]
+2020/04/28-17:20:18.264 40fd Delete type=2 #56
+2020/04/28-17:20:18.264 40fd Delete type=2 #58
+2020/04/28-17:20:23.476 40fd Level-0 table #61: started
+2020/04/28-17:20:23.526 40fd Level-0 table #61: 143632 bytes OK
+2020/04/28-17:20:23.526 4119 Current memtable full; waiting...
+2020/04/28-17:20:23.564 40fd Delete type=0 #57
+2020/04/28-17:20:23.564 40fd Level-0 table #63: started
+2020/04/28-17:20:23.627 40fd Level-0 table #63: 143760 bytes OK
+2020/04/28-17:20:23.664 40fd Delete type=0 #60
+2020/04/28-17:20:25.716 40fd Level-0 table #65: started
+2020/04/28-17:20:25.769 40fd Level-0 table #65: 143745 bytes OK
+2020/04/28-17:20:25.804 40fd Delete type=0 #62
+2020/04/28-17:20:25.805 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:20:25.844 40fd Generated table #66@0: 1 keys, 226218 bytes
+2020/04/28-17:20:25.844 40fd Compacted 1@0 + 1@1 files => 226218 bytes
+2020/04/28-17:20:25.879 40fd compacted to: files[ 3 10 10 0 0 0 0 ]
+2020/04/28-17:20:25.879 40fd Delete type=2 #42
+2020/04/28-17:20:25.879 40fd Delete type=2 #44
+2020/04/28-17:20:34.150 40fd Level-0 table #68: started
+2020/04/28-17:20:34.197 40fd Level-0 table #68: 243340 bytes OK
+2020/04/28-17:20:34.197 46d3 Current memtable full; waiting...
+2020/04/28-17:20:34.230 40fd Delete type=0 #64
+2020/04/28-17:20:34.231 40fd Level-0 table #70: started
+2020/04/28-17:20:34.305 40fd Level-0 table #70: 243437 bytes OK
+2020/04/28-17:20:34.337 40fd Delete type=0 #67
+2020/04/28-17:20:37.701 40fd Level-0 table #72: started
+2020/04/28-17:20:37.806 40fd Level-0 table #72: 243418 bytes OK
+2020/04/28-17:20:37.837 40fd Delete type=0 #69
+2020/04/28-17:20:37.838 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:20:37.873 40fd Generated table #73@0: 1 keys, 169469 bytes
+2020/04/28-17:20:37.873 40fd Compacted 1@0 + 1@1 files => 169469 bytes
+2020/04/28-17:20:37.903 40fd compacted to: files[ 3 11 11 0 0 0 0 ]
+2020/04/28-17:20:37.904 40fd Delete type=2 #21
+2020/04/28-17:20:37.904 40fd Delete type=2 #19
+2020/04/28-17:20:47.745 40fd Level-0 table #75: started
+2020/04/28-17:20:47.816 40fd Level-0 table #75: 214861 bytes OK
+2020/04/28-17:20:47.845 40fd Delete type=0 #71
+2020/04/28-17:21:00.815 40fd Level-0 table #77: started
+2020/04/28-17:21:00.858 40fd Level-0 table #77: 214897 bytes OK
+2020/04/28-17:21:00.895 40fd Delete type=0 #74
+2020/04/28-17:21:01.670 40fd Level-0 table #79: started
+2020/04/28-17:21:01.758 40fd Level-0 table #79: 214863 bytes OK
+2020/04/28-17:21:01.794 40fd Delete type=0 #76
+2020/04/28-17:21:01.794 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:21:01.834 40fd Generated table #80@0: 1 keys, 243418 bytes
+2020/04/28-17:21:01.834 40fd Compacted 1@0 + 1@1 files => 243418 bytes
+2020/04/28-17:21:01.869 40fd compacted to: files[ 3 12 12 0 0 0 0 ]
+2020/04/28-17:21:01.869 40fd Delete type=2 #72
+2020/04/28-17:21:01.869 40fd Delete type=2 #70
+2020/04/28-17:21:07.780 40fd Level-0 table #82: started
+2020/04/28-17:21:07.827 40fd Level-0 table #82: 214699 bytes OK
+2020/04/28-17:21:07.827 4119 Current memtable full; waiting...
+2020/04/28-17:21:07.860 40fd Delete type=0 #78
+2020/04/28-17:21:07.861 40fd Level-0 table #84: started
+2020/04/28-17:21:07.902 40fd Level-0 table #84: 214819 bytes OK
+2020/04/28-17:21:07.936 40fd Delete type=0 #81
+2020/04/28-17:21:08.763 40fd Level-0 table #86: started
+2020/04/28-17:21:08.837 40fd Level-0 table #86: 214804 bytes OK
+2020/04/28-17:21:08.869 40fd Delete type=0 #83
+2020/04/28-17:21:08.870 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:21:08.912 40fd Generated table #87@0: 1 keys, 213949 bytes
+2020/04/28-17:21:08.912 40fd Compacted 1@0 + 1@1 files => 213949 bytes
+2020/04/28-17:21:08.943 40fd compacted to: files[ 3 13 13 0 0 0 0 ]
+2020/04/28-17:21:08.944 40fd Delete type=2 #51
+2020/04/28-17:21:08.944 40fd Delete type=2 #49
+2020/04/28-17:21:15.658 40fd Level-0 table #89: started
+2020/04/28-17:21:15.697 40fd Level-0 table #89: 141778 bytes OK
+2020/04/28-17:21:15.697 46d3 Current memtable full; waiting...
+2020/04/28-17:21:15.726 40fd Delete type=0 #85
+2020/04/28-17:21:15.727 40fd Level-0 table #91: started
+2020/04/28-17:21:15.772 40fd Level-0 table #91: 141906 bytes OK
+2020/04/28-17:21:15.802 40fd Delete type=0 #88
+2020/04/28-17:21:17.822 40fd Level-0 table #93: started
+2020/04/28-17:21:17.873 40fd Level-0 table #93: 141891 bytes OK
+2020/04/28-17:21:17.910 40fd Delete type=0 #90
+2020/04/28-17:21:17.910 40fd Compacting 1@0 + 1@1 files
+2020/04/28-17:21:17.948 40fd Generated table #94@0: 1 keys, 143745 bytes
+2020/04/28-17:21:17.948 40fd Compacted 1@0 + 1@1 files => 143745 bytes
+2020/04/28-17:21:17.984 40fd compacted to: files[ 3 14 14 0 0 0 0 ]
+2020/04/28-17:21:17.985 40fd Delete type=2 #63
+2020/04/28-17:21:17.985 40fd Delete type=2 #65
+2020/04/28-17:21:23.493 40fd Level-0 table #96: started
+2020/04/28-17:21:23.552 4119 Current memtable full; waiting...
+2020/04/28-17:21:23.575 40fd Level-0 table #96: 180166 bytes OK
+2020/04/28-17:21:23.610 40fd Delete type=0 #92
+2020/04/28-17:21:23.611 40fd Level-0 table #98: started
+2020/04/28-17:21:23.684 40fd Level-0 table #98: 180294 bytes OK
+2020/04/28-17:21:23.719 40fd Delete type=0 #95
+2020/04/28-18:56:47.308 40fd Level-0 table #100: started
+2020/04/28-18:56:47.420 40fd Level-0 table #100: 180279 bytes OK
+2020/04/28-18:56:47.478 40fd Delete type=0 #97
+2020/04/28-18:56:47.479 40fd Compacting 1@0 + 1@1 files
+2020/04/28-18:56:47.530 40fd Generated table #101@0: 1 keys, 214863 bytes
+2020/04/28-18:56:47.530 40fd Compacted 1@0 + 1@1 files => 214863 bytes
+2020/04/28-18:56:47.561 40fd compacted to: files[ 3 15 15 0 0 0 0 ]
+2020/04/28-18:56:47.562 40fd Delete type=2 #79
+2020/04/28-18:56:47.562 40fd Delete type=2 #77
+2020/04/28-18:56:56.802 40fd Level-0 table #103: started
+2020/04/28-18:56:56.878 642c Current memtable full; waiting...
+2020/04/28-18:56:56.909 40fd Level-0 table #103: 186452 bytes OK
+2020/04/28-18:56:56.944 40fd Delete type=0 #99
+2020/04/28-18:56:56.945 40fd Level-0 table #105: started
+2020/04/28-18:56:57.002 40fd Level-0 table #105: 186550 bytes OK
+2020/04/28-18:56:57.036 40fd Delete type=0 #102
+2020/04/28-18:56:57.913 40fd Level-0 table #107: started
+2020/04/28-18:56:58.036 40fd Level-0 table #107: 186530 bytes OK
+2020/04/28-18:56:58.069 40fd Delete type=0 #104
+2020/04/28-18:56:58.069 40fd Compacting 1@0 + 1@1 files
+2020/04/28-18:56:58.120 40fd Generated table #108@0: 1 keys, 186530 bytes
+2020/04/28-18:56:58.120 40fd Compacted 1@0 + 1@1 files => 186530 bytes
+2020/04/28-18:56:58.187 40fd compacted to: files[ 3 16 16 0 0 0 0 ]
+2020/04/28-18:56:58.187 40fd Delete type=2 #105
+2020/04/28-18:56:58.187 40fd Delete type=2 #107
+2020/04/28-18:57:05.871 40fd Level-0 table #110: started
+2020/04/28-18:57:05.930 40fd Level-0 table #110: 165725 bytes OK
+2020/04/28-18:57:05.930 46d3 Current memtable full; waiting...
+2020/04/28-18:57:05.963 40fd Delete type=0 #106
+2020/04/28-18:57:05.963 40fd Level-0 table #112: started
+2020/04/28-18:57:06.064 40fd Level-0 table #112: 165845 bytes OK
+2020/04/28-18:57:06.095 40fd Delete type=0 #109
+2020/04/28-18:57:10.151 40fd Level-0 table #114: started
+2020/04/28-18:57:10.300 40fd Level-0 table #114: 165830 bytes OK
+2020/04/28-18:57:10.362 40fd Delete type=0 #111
+2020/04/28-18:57:10.362 40fd Compacting 1@0 + 1@1 files
+2020/04/28-18:57:10.417 40fd Generated table #115@0: 1 keys, 214804 bytes
+2020/04/28-18:57:10.417 40fd Compacted 1@0 + 1@1 files => 214804 bytes
+2020/04/28-18:57:10.444 40fd compacted to: files[ 3 17 17 0 0 0 0 ]
+2020/04/28-18:57:10.446 40fd Delete type=2 #86
+2020/04/28-18:57:10.446 40fd Delete type=2 #84
+2020/04/28-18:57:20.189 40fd Level-0 table #117: started
+2020/04/28-18:57:20.260 40fd Level-0 table #117: 304908 bytes OK
+2020/04/28-18:57:20.319 40fd Delete type=0 #113
+2020/04/28-18:58:17.286 40fd Level-0 table #119: started
+2020/04/28-18:58:17.350 40fd Level-0 table #119: 304945 bytes OK
+2020/04/28-18:58:17.350 642c Current memtable full; waiting...
+2020/04/28-18:58:17.383 40fd Delete type=0 #116
+2020/04/28-18:58:17.383 40fd Level-0 table #121: started
+2020/04/28-18:58:17.433 40fd Level-0 table #121: 305006 bytes OK
+2020/04/28-18:58:17.466 40fd Delete type=0 #118
+2020/04/28-18:58:17.466 40fd Compacting 1@0 + 1@1 files
+2020/04/28-18:58:17.517 40fd Generated table #122@0: 1 keys, 165830 bytes
+2020/04/28-18:58:17.517 40fd Compacted 1@0 + 1@1 files => 165830 bytes
+2020/04/28-18:58:17.549 40fd compacted to: files[ 3 18 18 0 0 0 0 ]
+2020/04/28-18:58:17.550 40fd Delete type=2 #112
+2020/04/28-18:58:17.550 40fd Delete type=2 #114
+2020/04/28-18:58:21.342 40fd Level-0 table #124: started
+2020/04/28-18:58:21.459 40fd Level-0 table #124: 304986 bytes OK
+2020/04/28-18:58:21.491 40fd Delete type=0 #120
+2020/04/28-18:58:21.491 40fd Compacting 1@0 + 1@1 files
+2020/04/28-18:58:21.543 40fd Generated table #125@0: 1 keys, 141891 bytes
+2020/04/28-18:58:21.543 40fd Compacted 1@0 + 1@1 files => 141891 bytes
+2020/04/28-18:58:21.574 40fd compacted to: files[ 3 18 18 0 0 0 0 ]
+2020/04/28-18:58:21.574 40fd Delete type=2 #91
+2020/04/28-18:58:21.574 40fd Delete type=2 #93
+2020/04/28-18:58:25.258 40fd Level-0 table #127: started
+2020/04/28-18:58:25.311 40fd Level-0 table #127: 88939 bytes OK
+2020/04/28-18:58:25.311 642c Current memtable full; waiting...
+2020/04/28-18:58:25.341 40fd Delete type=0 #123
+2020/04/28-18:58:25.341 40fd Level-0 table #129: started
+2020/04/28-18:58:25.418 40fd Level-0 table #129: 89067 bytes OK
+2020/04/28-18:58:25.457 40fd Delete type=0 #126
+2020/04/28-18:58:33.408 40fd Level-0 table #131: started
+2020/04/28-18:58:33.522 40fd Level-0 table #131: 89052 bytes OK
+2020/04/28-18:58:33.557 40fd Delete type=0 #128
+2020/04/28-18:58:33.557 40fd Compacting 2@0 + 1@1 files
+2020/04/28-18:58:33.614 40fd Generated table #132@0: 1 keys, 304986 bytes
+2020/04/28-18:58:33.614 40fd Compacted 2@0 + 1@1 files => 304986 bytes
+2020/04/28-18:58:33.648 40fd compacted to: files[ 2 19 19 0 0 0 0 ]
+2020/04/28-18:58:33.648 40fd Delete type=2 #121
+2020/04/28-18:58:33.648 40fd Delete type=2 #124
+2020/04/28-18:58:33.648 40fd Delete type=2 #119
+2020/04/28-18:58:39.972 40fd Level-0 table #134: started
+2020/04/28-18:58:40.024 40fd Level-0 table #134: 148125 bytes OK
+2020/04/28-18:58:40.024 6b17 Current memtable full; waiting...
+2020/04/28-18:58:40.056 40fd Delete type=0 #130
+2020/04/28-18:58:40.057 40fd Level-0 table #136: started
+2020/04/28-18:58:40.108 40fd Level-0 table #136: 148229 bytes OK
+2020/04/28-18:58:40.140 40fd Delete type=0 #133
+2020/04/28-18:59:08.802 40fd Level-0 table #138: started
+2020/04/28-18:59:08.914 40fd Level-0 table #138: 148206 bytes OK
+2020/04/28-18:59:08.947 40fd Delete type=0 #135
+2020/04/28-18:59:11.664 40fd Level-0 table #140: started
+2020/04/28-18:59:11.724 40fd Level-0 table #140: 148208 bytes OK
+2020/04/28-18:59:11.724 6b17 Current memtable full; waiting...
+2020/04/28-18:59:11.754 40fd Delete type=0 #137
+2020/04/28-18:59:11.755 40fd Level-0 table #142: started
+2020/04/28-18:59:11.808 40fd Level-0 table #142: 148312 bytes OK
+2020/04/28-18:59:11.838 40fd Delete type=0 #139
+2020/04/28-19:01:18.438 40fd Level-0 table #144: started
+2020/04/28-19:01:18.552 40fd Level-0 table #144: 148289 bytes OK
+2020/04/28-19:01:18.581 40fd Delete type=0 #141
+2020/04/28-19:01:18.581 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:18.628 40fd Generated table #145@0: 1 keys, 89052 bytes
+2020/04/28-19:01:18.628 40fd Compacted 1@0 + 1@1 files => 89052 bytes
+2020/04/28-19:01:18.655 40fd compacted to: files[ 3 21 21 0 0 0 0 ]
+2020/04/28-19:01:18.655 40fd Delete type=2 #131
+2020/04/28-19:01:18.655 40fd Delete type=2 #129
+2020/04/28-19:01:24.947 40fd Level-0 table #147: started
+2020/04/28-19:01:25.005 40fd Level-0 table #147: 278703 bytes OK
+2020/04/28-19:01:25.006 6b17 Current memtable full; waiting...
+2020/04/28-19:01:25.038 40fd Delete type=0 #143
+2020/04/28-19:01:25.039 40fd Level-0 table #149: started
+2020/04/28-19:01:25.097 40fd Level-0 table #149: 278831 bytes OK
+2020/04/28-19:01:25.131 40fd Delete type=0 #146
+2020/04/28-19:01:26.271 40fd Level-0 table #151: started
+2020/04/28-19:01:26.389 40fd Level-0 table #151: 278816 bytes OK
+2020/04/28-19:01:26.422 40fd Delete type=0 #148
+2020/04/28-19:01:26.422 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:26.481 40fd Generated table #152@0: 1 keys, 148289 bytes
+2020/04/28-19:01:26.482 40fd Compacted 1@0 + 1@1 files => 148289 bytes
+2020/04/28-19:01:26.513 40fd compacted to: files[ 3 22 22 0 0 0 0 ]
+2020/04/28-19:01:26.513 40fd Delete type=2 #142
+2020/04/28-19:01:26.513 40fd Delete type=2 #144
+2020/04/28-19:01:28.599 40fd Level-0 table #154: started
+2020/04/28-19:01:28.684 40fd Level-0 table #154: 180185 bytes OK
+2020/04/28-19:01:28.685 6b17 Current memtable full; waiting...
+2020/04/28-19:01:28.713 40fd Delete type=0 #150
+2020/04/28-19:01:28.713 40fd Level-0 table #156: started
+2020/04/28-19:01:28.776 40fd Level-0 table #156: 180305 bytes OK
+2020/04/28-19:01:28.806 40fd Delete type=0 #153
+2020/04/28-19:01:29.742 40fd Level-0 table #158: started
+2020/04/28-19:01:29.894 40fd Level-0 table #158: 180290 bytes OK
+2020/04/28-19:01:29.921 40fd Delete type=0 #155
+2020/04/28-19:01:29.922 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:29.969 40fd Generated table #159@0: 1 keys, 180290 bytes
+2020/04/28-19:01:29.969 40fd Compacted 1@0 + 1@1 files => 180290 bytes
+2020/04/28-19:01:30.027 40fd compacted to: files[ 3 23 23 0 0 0 0 ]
+2020/04/28-19:01:30.028 40fd Delete type=2 #158
+2020/04/28-19:01:30.028 40fd Delete type=2 #156
+2020/04/28-19:01:32.938 40fd Level-0 table #161: started
+2020/04/28-19:01:33.004 40fd Level-0 table #161: 372415 bytes OK
+2020/04/28-19:01:33.005 46d3 Current memtable full; waiting...
+2020/04/28-19:01:33.039 40fd Delete type=0 #157
+2020/04/28-19:01:33.040 40fd Level-0 table #163: started
+2020/04/28-19:01:33.104 40fd Level-0 table #163: 372513 bytes OK
+2020/04/28-19:01:33.140 40fd Delete type=0 #160
+2020/04/28-19:01:35.030 40fd Level-0 table #165: started
+2020/04/28-19:01:35.164 40fd Level-0 table #165: 372493 bytes OK
+2020/04/28-19:01:35.214 40fd Delete type=0 #162
+2020/04/28-19:01:35.214 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:35.264 40fd Generated table #166@0: 1 keys, 372493 bytes
+2020/04/28-19:01:35.264 40fd Compacted 1@0 + 1@1 files => 372493 bytes
+2020/04/28-19:01:35.297 40fd compacted to: files[ 3 24 24 0 0 0 0 ]
+2020/04/28-19:01:35.297 40fd Delete type=2 #163
+2020/04/28-19:01:35.297 40fd Delete type=2 #165
+2020/04/28-19:01:37.525 40fd Level-0 table #168: started
+2020/04/28-19:01:37.582 40fd Level-0 table #168: 97953 bytes OK
+2020/04/28-19:01:37.582 46d3 Current memtable full; waiting...
+2020/04/28-19:01:37.614 40fd Delete type=0 #164
+2020/04/28-19:01:37.614 40fd Level-0 table #170: started
+2020/04/28-19:01:37.666 40fd Level-0 table #170: 98081 bytes OK
+2020/04/28-19:01:37.697 40fd Delete type=0 #167
+2020/04/28-19:01:38.454 40fd Level-0 table #172: started
+2020/04/28-19:01:38.509 40fd Level-0 table #172: 98066 bytes OK
+2020/04/28-19:01:38.539 40fd Delete type=0 #169
+2020/04/28-19:01:38.539 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:38.593 40fd Generated table #173@0: 1 keys, 180279 bytes
+2020/04/28-19:01:38.593 40fd Compacted 1@0 + 1@1 files => 180279 bytes
+2020/04/28-19:01:38.622 40fd compacted to: files[ 3 25 25 0 0 0 0 ]
+2020/04/28-19:01:38.622 40fd Delete type=2 #98
+2020/04/28-19:01:38.622 40fd Delete type=2 #100
+2020/04/28-19:01:41.321 40fd Level-0 table #175: started
+2020/04/28-19:01:41.378 40fd Level-0 table #175: 189703 bytes OK
+2020/04/28-19:01:41.378 46d3 Current memtable full; waiting...
+2020/04/28-19:01:41.406 40fd Delete type=0 #171
+2020/04/28-19:01:41.407 40fd Level-0 table #177: started
+2020/04/28-19:01:41.512 40fd Level-0 table #177: 189831 bytes OK
+2020/04/28-19:01:41.548 40fd Delete type=0 #174
+2020/04/28-19:01:43.862 40fd Level-0 table #179: started
+2020/04/28-19:01:43.955 40fd Level-0 table #179: 189816 bytes OK
+2020/04/28-19:01:43.989 40fd Delete type=0 #176
+2020/04/28-19:01:43.989 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:44.038 40fd Generated table #180@0: 1 keys, 278816 bytes
+2020/04/28-19:01:44.038 40fd Compacted 1@0 + 1@1 files => 278816 bytes
+2020/04/28-19:01:44.071 40fd compacted to: files[ 3 26 26 0 0 0 0 ]
+2020/04/28-19:01:44.072 40fd Delete type=2 #149
+2020/04/28-19:01:44.072 40fd Delete type=2 #151
+2020/04/28-19:01:51.044 40fd Level-0 table #182: started
+2020/04/28-19:01:51.107 40fd Level-0 table #182: 195387 bytes OK
+2020/04/28-19:01:51.107 46d3 Current memtable full; waiting...
+2020/04/28-19:01:51.138 40fd Delete type=0 #178
+2020/04/28-19:01:51.138 40fd Level-0 table #184: started
+2020/04/28-19:01:51.199 40fd Level-0 table #184: 195515 bytes OK
+2020/04/28-19:01:51.231 40fd Delete type=0 #181
+2020/04/28-19:01:52.895 40fd Level-0 table #186: started
+2020/04/28-19:01:52.966 40fd Level-0 table #186: 195500 bytes OK
+2020/04/28-19:01:52.997 40fd Delete type=0 #183
+2020/04/28-19:01:52.997 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:01:53.050 40fd Generated table #187@0: 1 keys, 195500 bytes
+2020/04/28-19:01:53.050 40fd Compacted 1@0 + 1@1 files => 195500 bytes
+2020/04/28-19:01:53.079 40fd compacted to: files[ 3 27 27 0 0 0 0 ]
+2020/04/28-19:01:53.080 40fd Delete type=2 #184
+2020/04/28-19:01:53.080 40fd Delete type=2 #186
+2020/04/28-19:02:01.353 40fd Level-0 table #189: started
+2020/04/28-19:02:01.411 40fd Level-0 table #189: 177833 bytes OK
+2020/04/28-19:02:01.412 46d3 Current memtable full; waiting...
+2020/04/28-19:02:01.447 40fd Delete type=0 #185
+2020/04/28-19:02:01.448 40fd Level-0 table #191: started
+2020/04/28-19:02:01.545 40fd Level-0 table #191: 177953 bytes OK
+2020/04/28-19:02:01.580 40fd Delete type=0 #188
+2020/04/28-19:02:02.511 40fd Level-0 table #193: started
+2020/04/28-19:02:02.596 40fd Level-0 table #193: 177938 bytes OK
+2020/04/28-19:02:02.662 40fd Delete type=0 #190
+2020/04/28-19:02:02.663 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:02.713 40fd Generated table #194@0: 1 keys, 189816 bytes
+2020/04/28-19:02:02.713 40fd Compacted 1@0 + 1@1 files => 189816 bytes
+2020/04/28-19:02:02.745 40fd compacted to: files[ 3 28 28 0 0 0 0 ]
+2020/04/28-19:02:02.746 40fd Delete type=2 #177
+2020/04/28-19:02:02.746 40fd Delete type=2 #179
+2020/04/28-19:02:04.881 40fd Level-0 table #196: started
+2020/04/28-19:02:04.965 6d30 Current memtable full; waiting...
+2020/04/28-19:02:04.998 40fd Level-0 table #196: 278293 bytes OK
+2020/04/28-19:02:05.030 40fd Delete type=0 #192
+2020/04/28-19:02:05.030 40fd Level-0 table #198: started
+2020/04/28-19:02:05.140 40fd Level-0 table #198: 278391 bytes OK
+2020/04/28-19:02:05.171 40fd Delete type=0 #195
+2020/04/28-19:02:05.622 40fd Level-0 table #200: started
+2020/04/28-19:02:05.741 40fd Level-0 table #200: 278371 bytes OK
+2020/04/28-19:02:05.771 40fd Delete type=0 #197
+2020/04/28-19:02:05.771 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:05.824 40fd Generated table #201@0: 1 keys, 148206 bytes
+2020/04/28-19:02:05.825 40fd Compacted 1@0 + 1@1 files => 148206 bytes
+2020/04/28-19:02:05.854 40fd compacted to: files[ 3 29 29 0 0 0 0 ]
+2020/04/28-19:02:05.855 40fd Delete type=2 #138
+2020/04/28-19:02:05.855 40fd Delete type=2 #136
+2020/04/28-19:02:08.933 40fd Level-0 table #203: started
+2020/04/28-19:02:08.993 40fd Level-0 table #203: 96746 bytes OK
+2020/04/28-19:02:08.994 6d30 Current memtable full; waiting...
+2020/04/28-19:02:09.029 40fd Delete type=0 #199
+2020/04/28-19:02:09.029 40fd Level-0 table #205: started
+2020/04/28-19:02:09.077 40fd Level-0 table #205: 96850 bytes OK
+2020/04/28-19:02:09.112 40fd Delete type=0 #202
+2020/04/28-19:02:09.718 40fd Level-0 table #207: started
+2020/04/28-19:02:09.828 40fd Level-0 table #207: 96827 bytes OK
+2020/04/28-19:02:09.888 40fd Delete type=0 #204
+2020/04/28-19:02:09.888 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:09.945 40fd Generated table #208@0: 1 keys, 98066 bytes
+2020/04/28-19:02:09.945 40fd Compacted 1@0 + 1@1 files => 98066 bytes
+2020/04/28-19:02:09.976 40fd compacted to: files[ 3 30 30 0 0 0 0 ]
+2020/04/28-19:02:09.977 40fd Delete type=2 #170
+2020/04/28-19:02:09.977 40fd Delete type=2 #172
+2020/04/28-19:02:12.136 40fd Level-0 table #210: started
+2020/04/28-19:02:12.213 6d30 Current memtable full; waiting...
+2020/04/28-19:02:12.247 40fd Level-0 table #210: 125862 bytes OK
+2020/04/28-19:02:12.277 40fd Delete type=0 #206
+2020/04/28-19:02:12.277 40fd Level-0 table #212: started
+2020/04/28-19:02:12.339 40fd Level-0 table #212: 125990 bytes OK
+2020/04/28-19:02:12.368 40fd Delete type=0 #209
+2020/04/28-19:02:12.992 40fd Level-0 table #214: started
+2020/04/28-19:02:13.064 40fd Level-0 table #214: 125975 bytes OK
+2020/04/28-19:02:13.093 40fd Delete type=0 #211
+2020/04/28-19:02:13.093 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:13.148 40fd Generated table #215@0: 1 keys, 125975 bytes
+2020/04/28-19:02:13.148 40fd Compacted 1@0 + 1@1 files => 125975 bytes
+2020/04/28-19:02:13.176 40fd compacted to: files[ 3 31 31 0 0 0 0 ]
+2020/04/28-19:02:13.176 40fd Delete type=2 #214
+2020/04/28-19:02:13.176 40fd Delete type=2 #212
+2020/04/28-19:02:17.439 40fd Level-0 table #217: started
+2020/04/28-19:02:17.523 46d3 Current memtable full; waiting...
+2020/04/28-19:02:17.550 40fd Level-0 table #217: 196160 bytes OK
+2020/04/28-19:02:17.586 40fd Delete type=0 #213
+2020/04/28-19:02:17.586 40fd Level-0 table #219: started
+2020/04/28-19:02:17.700 40fd Level-0 table #219: 196288 bytes OK
+2020/04/28-19:02:17.736 40fd Delete type=0 #216
+2020/04/28-19:02:19.791 40fd Level-0 table #221: started
+2020/04/28-19:02:19.862 40fd Level-0 table #221: 196273 bytes OK
+2020/04/28-19:02:19.926 40fd Delete type=0 #218
+2020/04/28-19:02:19.926 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:19.977 40fd Generated table #222@0: 1 keys, 196273 bytes
+2020/04/28-19:02:19.977 40fd Compacted 1@0 + 1@1 files => 196273 bytes
+2020/04/28-19:02:20.009 40fd compacted to: files[ 3 32 32 0 0 0 0 ]
+2020/04/28-19:02:20.010 40fd Delete type=2 #219
+2020/04/28-19:02:20.010 40fd Delete type=2 #221
+2020/04/28-19:02:24.075 40fd Level-0 table #224: started
+2020/04/28-19:02:24.137 40fd Level-0 table #224: 177963 bytes OK
+2020/04/28-19:02:24.137 6d31 Current memtable full; waiting...
+2020/04/28-19:02:24.168 40fd Delete type=0 #220
+2020/04/28-19:02:24.169 40fd Level-0 table #226: started
+2020/04/28-19:02:24.270 40fd Level-0 table #226: 178083 bytes OK
+2020/04/28-19:02:24.301 40fd Delete type=0 #223
+2020/04/28-19:02:25.183 40fd Level-0 table #228: started
+2020/04/28-19:02:25.271 40fd Level-0 table #228: 178068 bytes OK
+2020/04/28-19:02:25.302 40fd Delete type=0 #225
+2020/04/28-19:02:25.302 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:25.346 40fd Generated table #229@0: 1 keys, 96827 bytes
+2020/04/28-19:02:25.346 40fd Compacted 1@0 + 1@1 files => 96827 bytes
+2020/04/28-19:02:25.375 40fd compacted to: files[ 3 33 33 0 0 0 0 ]
+2020/04/28-19:02:25.376 40fd Delete type=2 #205
+2020/04/28-19:02:25.376 40fd Delete type=2 #207
+2020/04/28-19:02:27.405 40fd Level-0 table #231: started
+2020/04/28-19:02:27.477 40fd Level-0 table #231: 267135 bytes OK
+2020/04/28-19:02:27.478 46d3 Current memtable full; waiting...
+2020/04/28-19:02:27.526 40fd Delete type=0 #227
+2020/04/28-19:02:27.527 40fd Level-0 table #233: started
+2020/04/28-19:02:27.623 40fd Level-0 table #233: 267232 bytes OK
+2020/04/28-19:02:27.652 40fd Delete type=0 #230
+2020/04/28-19:02:28.095 40fd Level-0 table #235: started
+2020/04/28-19:02:28.224 40fd Level-0 table #235: 267212 bytes OK
+2020/04/28-19:02:28.260 40fd Delete type=0 #232
+2020/04/28-19:02:28.261 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:28.316 40fd Generated table #236@0: 1 keys, 278371 bytes
+2020/04/28-19:02:28.316 40fd Compacted 1@0 + 1@1 files => 278371 bytes
+2020/04/28-19:02:28.350 40fd compacted to: files[ 3 34 34 0 0 0 0 ]
+2020/04/28-19:02:28.351 40fd Delete type=2 #198
+2020/04/28-19:02:28.351 40fd Delete type=2 #200
+2020/04/28-19:02:29.974 40fd Level-0 table #238: started
+2020/04/28-19:02:30.035 40fd Level-0 table #238: 131342 bytes OK
+2020/04/28-19:02:30.035 46d3 Current memtable full; waiting...
+2020/04/28-19:02:30.068 40fd Delete type=0 #234
+2020/04/28-19:02:30.069 40fd Level-0 table #240: started
+2020/04/28-19:02:30.127 40fd Level-0 table #240: 131445 bytes OK
+2020/04/28-19:02:30.159 40fd Delete type=0 #237
+2020/04/28-19:02:30.638 40fd Level-0 table #242: started
+2020/04/28-19:02:30.711 40fd Level-0 table #242: 131423 bytes OK
+2020/04/28-19:02:30.742 40fd Delete type=0 #239
+2020/04/28-19:02:30.742 40fd Compacting 1@0 + 1@1 files
+2020/04/28-19:02:30.794 40fd Generated table #243@0: 1 keys, 178068 bytes
+2020/04/28-19:02:30.794 40fd Compacted 1@0 + 1@1 files => 178068 bytes
+2020/04/28-19:02:30.825 40fd compacted to: files[ 3 35 35 0 0 0 0 ]
+2020/04/28-19:02:30.827 40fd Delete type=2 #228
+2020/04/28-19:02:30.827 40fd Delete type=2 #226
+2020/04/28-19:02:32.666 40fd Level-0 table #245: started
+2020/04/28-19:02:32.741 46d3 Current memtable full; waiting...
+2020/04/28-19:02:32.771 40fd Level-0 table #245: 126705 bytes OK
+2020/04/28-19:02:32.801 40fd Delete type=0 #241
+2020/04/28-19:02:32.802 40fd Level-0 table #247: started
+2020/04/28-19:02:32.905 40fd Level-0 table #247: 126833 bytes OK
+2020/04/28-19:02:32.934 40fd Delete type=0 #244

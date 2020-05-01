@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/cenderme/assignments/Automatic Control'
+let g:netrw_dirhist_8='/home/cenderme/.config'
+let g:netrw_dirhist_7='/home/cenderme/assignments/aerodynamics/src/complete'
+let g:netrw_dirhist_6='/home/cenderme/assignments/aerodynamics/src'
+let g:netrw_dirhist_5='/home/cenderme/assignments/aerodynamics/src/build'
+let g:netrw_dirhist_4='/home/cenderme/assignments/aerodynamics/src'
+let g:netrw_dirhist_3='/usr/share/glib-2.0/schemas'
+let g:netrw_dirhist_2='/usr/share/glib-2.0'
+let g:netrw_dirhist_1='/home/cenderme/.config/glib-2.0/settings'
+let g:netrw_dirhist_0='/home/cenderme/.config/glib-2.0'
